@@ -1,6 +1,5 @@
 <h1>Privacy Policy</h1>
-<p><strong>Effective Date:</strong> September 26, 2025</p>
-<p>This Privacy Policy explains how we collect, use, disclose, and protect the personal information you provide or that we collect when you access or use our services when you use our mobile application (the “App”).. It explains your privacy rights and choices, and how to contact us about our privacy practices. Please read this Policy carefully. By using our Platform, you consent to the data practices described in this Policy. This Privacy Policy has been created with the help of the <a href="https://listwr.com/privacy-policy-generator" target="_blank">Free Privacy Policy Generator</a>.</p>
+
 <h2>Entity and Contact Information</h2>
 <p>This Privacy Policy is published on behalf of an individual operator located in 6th october, egypt. Business names and registered addresses are not applicable in this case. All references to “I”, “me”, or “my” refer to the individual operator.</p>
 <h3>How to Contact Us</h3>
