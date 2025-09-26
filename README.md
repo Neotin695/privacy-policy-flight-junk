@@ -1,33 +1,19 @@
-# ✈️ Flight Junk
+## 🏪 Google Play Store Listing
 
-Flight Junk is a casual **2D airplane shooting game** built with [Flutter](https://flutter.dev/) and [Flame Engine](https://flame-engine.org/).  
-Fly your jet, dodge enemies, and enjoy endless fun with smooth performance and sound effects!
+**App Name:** Flight Junk
 
----
+**Short Description:**  
+Fly, shoot, and survive in this exciting 2D airplane game!
 
-## 📸 Screenshots
-(Add screenshots of your game here, for example from the `assets/images` folder)
+**Full Description:**  
+Flight Junk is a fun and addictive 2D airplane shooting game. Control your jet, dodge enemies, and destroy obstacles in an endless adventure.  
+Built with Flutter & Flame Engine, it offers:  
+- Smooth and responsive gameplay.  
+- Cool sound effects and background music.  
+- Endless fun and challenges.  
 
----
-
-## 🚀 Features
-- 🎮 Smooth 2D gameplay with Flame.
-- 🎵 Background music and sound effects powered by Flame Audio.
-- 📱 Cross-platform: works on **Android** and **iOS**.
-- 🕹️ Simple controls, endless gameplay.
-- 🔥 Lightweight and optimized for performance.
-
----
-
-## 🛠️ Installation & Run
-
-### Prerequisites
-- [Flutter SDK](https://docs.flutter.dev/get-started/install) (3.x or later)
-- Android Studio / VSCode with Flutter extensions
-
-### Clone & Run
-```bash
-git clone https://github.com/your-username/flight_junk.git
-cd flight_junk
-flutter pub get
-flutter run
+**Assets Required:**  
+- App icon (512×512 PNG).  
+- Feature graphic (1024×500 JPG/PNG).  
+- At least 2 screenshots (1080×1920 or higher).  
+- Privacy Policy link.  
